@@ -1,4 +1,4 @@
-# VisCNN_ECCV_2014
+# VisCNN_ECCV_2014_Zeiler
 
 ## Brief Introduction
 ```
