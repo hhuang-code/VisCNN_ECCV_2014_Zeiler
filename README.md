@@ -2,7 +2,7 @@
 
 ## Brief Introduction
 ```
-Implement the paper "Visualizing and understanding convolutional networks" and rely on https://github.com/csgwon/pytorch-deconvnet
+A PyTorch implementation the paper "Visualizing and understanding convolutional networks" and rely on https://github.com/csgwon/pytorch-deconvnet
 ```
 
 ## Modifications
